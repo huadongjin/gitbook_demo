@@ -35,7 +35,7 @@ Node.js是一个基于Chrome JavaScript运行时建立的一个平台，用来�
 登录Node.js[官网](http://www.nodejs.org/),下载安装包并安装。
 安装好后请校验对应的版本。
 
-```shell
+```bash
 node -v
 ```
 
