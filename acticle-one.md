@@ -17,6 +17,5 @@
 ```bash
 gitbook build
 ```
-
-https://pan.baidu.com/disk/home#list/vmode=grid&path=%2F%E5%B7%A5%E4%BD%9C%E7%94%A8%E5%9B%BE%2FGitBook_pic
+![testpic](https://pan.baidu.com/s/1c1PSyNA)
 
