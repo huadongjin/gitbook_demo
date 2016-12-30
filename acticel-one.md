@@ -24,7 +24,12 @@ GitBook支持输出多种文档格式，如：
 ###GitBook 如何安装
 gitbook是命令行工具，我们先搭建环境：
 
-1.命令行安装
-```bash
+1.Node.js安装
+Node.js是一个基于Chrome JavaScript运行时建立的一个平台，用来方便地搭建快速的，易于扩展的网络应用。Node.js借助事件驱动，非阻塞I/O模型变动轻量和高效，非常适合 run accoss distributed devices的data-intensive的实时应用。
 
-```
+登录Node.js[官网](http://www.nodejs.org/),下载安装包并安装。
+安装好后请校验对应的版本。
+node -v
+有对应的版本提示说明安装成功。
+
+
