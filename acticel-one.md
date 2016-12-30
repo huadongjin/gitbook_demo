@@ -48,7 +48,13 @@ npm install gitbook -g
 gitbook -V
 20.4.2
 ```
-如果看到类似的版本信息，表示已成功安装GitBook
+如果看到类似的版本信息，表示已成功安装GitBook.
+
+3.calibre安装
+这个鬼东西负责各种电子书的转换，我搞了两小时一直不生效。果断搁置先。
+calibre是个开源的一站式电子书解决方案，GitBook会用到其中ebook-convert功能组件来完成书籍格式的转换。
+
+登录官网http://www.calibre-ebook.com/,选择对应的平台进行安装。
 
 
 
