@@ -13,7 +13,6 @@ GitBook支持输出多种文档格式，如：
 * JSON：一般用于电子书的调试或元数据提取。
 
 
-
 [GitBook项目官网](http://www.gitbook.ioGitBook)   [Github地址](https://github.com/GitbookIO/gitbook)
 ###客户端GitBook Editor介绍
 
@@ -55,6 +54,15 @@ gitbook -V
 calibre是个开源的一站式电子书解决方案，GitBook会用到其中ebook-convert功能组件来完成书籍格式的转换。
 
 登录官网http://www.calibre-ebook.com/,选择对应的平台进行安装。
+
+
+###GitBook Editor安装
+这个是个客户端，安装好马上可用。
+GitBook Editor实际上就是个特殊的Markdown编辑器。可以选择新建或者导入本地的gitbook。一般会有如下三个文件/文件夹
+* _book 文件夹
+* SUMMARY.md
+* README.md
+在gitbook editor里面你只要编辑README.md文件即可，其他两个文件都是自动会生成和填充的。
 
 
 
