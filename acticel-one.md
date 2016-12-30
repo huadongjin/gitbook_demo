@@ -39,7 +39,5 @@ node -v
 
 有对应的版本提示说明安装成功。
 node版本可通过版本管理器进行管理（nvm或者n),NVM的全称就是Node Version Manager,是一个简单的bash脚本用来管理系统中已经存在的多个Node.js版本。
-
-
-
+对于管理node版本用NVM还是n的问题，可参加[node管理](http://web.jobbole.com/84249/)
 
