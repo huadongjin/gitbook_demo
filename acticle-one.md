@@ -29,4 +29,25 @@ info: found 1 asset files
 info: >> generation finished with success in 1.4s !
 ```
 
+```bash
+ $ gitbook serve . 
+Live reload server started on port: 35729
+Press CTRL+C to quit ...
+
+info: 7 plugins are installed
+info: loading plugin "livereload"... OK
+info: loading plugin "highlight"... OK
+info: loading plugin "search"... OK
+info: loading plugin "lunr"... OK
+info: loading plugin "sharing"... OK
+info: loading plugin "fontsettings"... OK
+info: loading plugin "theme-default"... OK
+info: found 4 pages
+info: found 1 asset files
+info: >> generation finished with success in 1.5s !
+
+Starting server ...
+Serving book on http://localhost:4000
+```
+然后通过浏览器访问http://localhost:4000 可看到自己编辑的文章。
 
