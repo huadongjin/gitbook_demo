@@ -51,3 +51,11 @@ Serving book on http://localhost:4000
 ```
 然后通过浏览器访问http://localhost:4000 可看到自己编辑的文章。
 
+2.修改、添加文章，在gitbook editor中保存并同步；
+
+3.通过git管理工具sourceTree或git命令行，pull回本地branch
+
+4.再通过浏览器查看http://localhost:4000 发现刚编辑的内容已生效。
+
+gitbook server 能监听动态变化；
+
