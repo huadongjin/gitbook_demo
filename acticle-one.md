@@ -12,10 +12,9 @@
 
 在gitbook editor中编辑好保存的文章按如下步骤可以立即生效：
 
-1.本地已经build过并起了对应的web服务，假设我本地有gitbook\_demo,经过gitbook build和gitbook serve .,通过浏览器访问localhost:4000即可访问，默认端口是4000，如下：
+1.本地已经build过并起了对应的web服务，假设我本地有gitbook_demo,经过gitbook build和gitbook serve .,通过浏览器访问localhost:4000即可访问，默认端口是4000，如下：cd到gitbook_demo目录下
 
 ```bash
-gitbook build
  $ gitbook build 
 info: 7 plugins are installed
 info: 6 explicitly listed
