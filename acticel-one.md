@@ -1,4 +1,4 @@
 # GitBook介绍
 
-1.1 this is articel one！
+>GitBook被广泛运用于技术文档的编写。
 
