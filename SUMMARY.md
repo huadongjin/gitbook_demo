@@ -1,12 +1,12 @@
 # Summary
 
-## 技术文档demo
+## 技术文档gitbook\_demo
 * [Introduction](README.md)
 
 ## 第一部分
-* [acticle one](acticel-one.md)
-* [article two](articel-two.md)
+* [GitBook介绍](acticel-one.md)
+* [GitBook使用心得](articel-two.md)
 
 ## 第二部分
-* [acticle one](acticle-one.md)
+* [工作应用](acticle-one.md)
 
