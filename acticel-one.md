@@ -1,8 +1,3 @@
-
-
-
-
-
 # GitBook&GitBook Editor介绍
 
 
@@ -45,8 +40,15 @@ node版本可通过版本管理器进行管理（nvm或者n),NVM的全称就是N
 
 2.GitBook安装
 GitBook是从NMP上安装的，命令行：
-
-
+```bash
+npm install gitbook -g
+```
+安装好之后，检验下是否安装成功
+```
+gitbook -V
+20.4.2
+```
+如果看到类似的版本信息，表示已成功安装GitBook
 
 
 
