@@ -1,7 +1,7 @@
 # 第二部分
 
 
-在体验Gitbook Editor的时候碰到以下几个问题点
+在体验Gitbook Editor的时候碰到以下几个问题点：
 
  ###gitbook editor 问题点：
 * 同步到的是远程的git仓库，不能马上本地生效，需要pull下来才行；
